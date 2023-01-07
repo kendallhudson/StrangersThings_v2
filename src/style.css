@@ -1,0 +1,52 @@
+/* INSTEAD OF SEPARATE CSS PAGES, JUST USE THIS ONE */
+
+/* UNIVERSAL */
+* {
+    background-color: rgb(219, 181, 253);
+    color: rebeccapurple;
+}
+
+/* Navbar.js */
+#navbar-container {
+    background-color: red;
+    border: solid black 2px;
+}
+
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* Posts.js */
+#posts-container {
+    background-color: blue;
+    border: solid black 2px;
+}
+
+/* Profile.js */
+#profile-container {
+    background-color: green;
+    border: solid black 2px;
+}
+
+/* Home.js */
+#home-container {
+    background-color: yellow;
+    border: solid black 2px;
+}
+
+/* Register.js */
+#register-container {
+    background-color: orange;
+    border: solid black 2px;
+    max-height: 300px;
+
+}
+/* index.js */
+
+
+/* login.js */
+
+
+/* signup.js */
